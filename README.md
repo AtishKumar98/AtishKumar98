@@ -1,8 +1,3 @@
-Certainly! Here’s a formatted `README.md` for your GitHub profile, including a few sections with images to make it visually appealing:
-
----
-
-
 # 👨‍💻 Atish Kumar - Python Developer
 
 Welcome to my GitHub profile! I'm a results-driven and detail-oriented Python Developer with extensive expertise in web development using the Django framework. With over three years of professional experience, I have a proven track record of delivering high-quality, scalable, and secure applications.
@@ -28,8 +23,6 @@ Welcome to my GitHub profile! I'm a results-driven and detail-oriented Python De
 - Containerization and orchestration (Docker, Kubernetes)
 - Agile methodologies and project management tools (JIRA, Trello)
 - Familiarity with RESTful and microservices architecture
-
-![Skills](https://user-images.githubusercontent.com/12345678/123456789-SkillsImage.jpg)
 
 ## 📚 Professional Experience
 
@@ -70,16 +63,12 @@ Welcome to my GitHub profile! I'm a results-driven and detail-oriented Python De
 - Delivered end-user training on content management systems, enabling staff to easily update and maintain websites without developer assistance.
 - Assisted clients in selecting appropriate hosting plans based on their specific needs.
 
-![Experience](https://user-images.githubusercontent.com/12345678/123456789-ExperienceImage.jpg)
-
 ## 🎓 Education
 
 - **Masters of Business Administration**  
   DR. D.Y. Patil, Vidyapeeth Pune (Jun 2022)
 - **Bachelor in Computer Science**  
   St. Wilfred Education Society (May 2020)
-
-![Education](https://user-images.githubusercontent.com/12345678/123456789-EducationImage.jpg)
 
 ## 📞 Contact
 
@@ -90,4 +79,4 @@ Welcome to my GitHub profile! I'm a results-driven and detail-oriented Python De
 
 ---
 
-Feel free to customize the URLs for the images or any other details as per your preference. This `README.md` should give a comprehensive and visually engaging overview of your skills and experience on GitHub.
+Feel free to further customize this `README.md` as needed.
