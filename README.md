@@ -7,8 +7,6 @@ Certainly! Here’s a formatted `README.md` for your GitHub profile, including a
 
 Welcome to my GitHub profile! I'm a results-driven and detail-oriented Python Developer with extensive expertise in web development using the Django framework. With over three years of professional experience, I have a proven track record of delivering high-quality, scalable, and secure applications.
 
-![Coding](https://user-images.githubusercontent.com/12345678/123456789-CodingImage.jpg)
-
 ## 🛠️ Skills and Expertise
 
 - **Programming Languages**: Python
