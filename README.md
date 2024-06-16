@@ -2,7 +2,6 @@ Certainly! Here’s a formatted `README.md` for your GitHub profile, including a
 
 ---
 
-![Header](https://user-images.githubusercontent.com/12345678/123456789-HeaderImage.jpg)
 
 # 👨‍💻 Atish Kumar - Python Developer
 
