@@ -76,7 +76,3 @@ Welcome to my GitHub profile! I'm a results-driven and detail-oriented Python De
 - **Email**: atish98.dev@gmail.com
 - **Portfolio**: [atishkumar.co.in](http://atishkumar.co.in)
 - **Location**: Panvel, Navi Mumbai, India - 410206
-
----
-
-Feel free to further customize this `README.md` as needed.
